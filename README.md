@@ -1,0 +1,1 @@
+Trivy is used for scanning Docker images for vulnerabilities.
